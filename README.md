@@ -1,1 +1,1 @@
-### Monty Project for ALX SE program
+### Monty project for ALX SE program
